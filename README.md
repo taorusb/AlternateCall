@@ -5,4 +5,4 @@ javac -sourcepath ./src -d bin src/com/altrernatecall/Main.java
 
 java -classpath ./bin com.alternatecall.Main
 
-###### The program demonstrates the use of the Phaser class.
+The program demonstrates the use of the Phaser class.
